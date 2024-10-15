@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5aa6b38a4e19beb2",
+        "id": "66fe24a4450e497d",
         "type": "tabs",
         "children": [
           {
-            "id": "9770f3118e1818b8",
+            "id": "bff5b569e61da464",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "``",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +118,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "cac4bdee91fa11cc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -148,6 +148,10 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "0c4eb2c69580d919",
-  "lastOpenFiles": []
+  "active": "e91f1cc157686699",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "docs/git.md",
+    "README.md"
+  ]
 }
