@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "66fe24a4450e497d",
+        "id": "de610adda97c9d3d",
         "type": "tabs",
         "children": [
           {
-            "id": "bff5b569e61da464",
+            "id": "81797fb83cf7467f",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "marp-preview-view",
               "state": {}
             }
           }
@@ -148,10 +148,12 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "e91f1cc157686699",
+  "active": "81797fb83cf7467f",
   "lastOpenFiles": [
+    "docs/ARC - HAB Introduction Slides.md",
+    "README.md",
+    "docs/arcgoogledrive.com.md",
     "Untitled.canvas",
-    "docs/git.md",
-    "README.md"
+    "docs/git.md"
   ]
 }

@@ -11,10 +11,10 @@ For wide usability [Obsidian-md](https://obsidian.md) is recommended as a cross 
 
 ### Windows
 
-- Need to be completes
+- Need to be completed
 
-## Video tutorials
+## Getting started with documentation - Video tutorial
 
-An easy to follow tutorial can be found here
+An easy to follow tutorial can be found [here]()
 
 
