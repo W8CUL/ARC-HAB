@@ -13,12 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/2024-10-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2024-10-22"
+            }
+          }
+        ]
+      },
+      {
+        "id": "689268f34445887a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18c78f355e19a9c9",
+            "type": "leaf",
+            "state": {
+              "type": "marp-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Deck Preview"
             }
           }
         ]
@@ -93,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "docs/2024-10-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for 2024-10-22"
             }
           },
           {
@@ -112,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "docs/2024-10-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from 2024-10-22"
             }
           },
           {
@@ -139,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "docs/2024-10-22.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of 2024-10-22"
             }
           },
           {
@@ -174,9 +190,10 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "5d2429a90b56751e",
+  "active": "18c78f355e19a9c9",
   "lastOpenFiles": [
     "docs/ARC - HAB Introduction Slides.md",
+    "docs/2024-10-22.md",
     "README.md",
     "docs/arcgoogledrive.com.md",
     "Untitled.canvas",
