@@ -20,8 +20,31 @@ Git is used as the main method of syncing/sharing documentation and progress.
 
 ### Windows
 
-- Need to be update instructions
+1. Make an account at [https://github.com/](https://gitlub.com/) use a suitable name.
+2. Install Notepad++ using the following link [https://notepad-plus-plus.org/downloads](https://notepad-plus-plus.org/downloads) (VS code might work too. Change accordingly)
+3. Download and install **git desktop** [https://git-scm.com/download/win](https://git-scm.com/download/win)
 
+#### Git bash install instructions
+
+1. Remove **Git GUI Here**
+2. Select Notepad++ as the default editor (option 2)
+3. Keep all the other options the same
+
+Once the installation is complete if you right click on any folder the context menue should show `Git Bash Here` options
+
+#### Adding SSG key to github
+
+1. Login and https://github.com/settings/keys
+2. Open a git bash window and execute the following commands
+   
+``` bash
+ssh-keygen
+ls ~/.ssh  
+cat ~/.ssh/id_rsa.pub
+```
+
+- The commands will make a ssh public and private key pair and save in your virtual home under the `.ssh` folder.
+- The `id_rsa.pub` file content will be displayed if everything works and you can copy this key and use it and add to your account
 ## Getting started with documentation - Video tutorial
 
 An easy to follow tutorial can be found [here]()(pending)
