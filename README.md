@@ -18,13 +18,14 @@ Git is used as the main method of syncing/sharing documentation and progress.
 - Recommend using and setting up [obsidian-md](https://obsidian.md/) (this is a free note taking tool and you only need to install it most of the configuration is done to work with git and other requirements)
 - A good tutorial for basic markdown syntax can be found [here](https://www.markdownguide.org/basic-syntax/)
 
-### Windows
+### Windows 
+*Last tested in 2018 on win 10. Need to check and update*
 
 1. Make an account at [https://github.com/](https://gitlub.com/) use a suitable name.
 2. Install Notepad++ using the following link [https://notepad-plus-plus.org/downloads](https://notepad-plus-plus.org/downloads) (VS code might work too. Change accordingly)
 3. Download and install **git desktop** [https://git-scm.com/download/win](https://git-scm.com/download/win)
 
-#### Git bash install instructions
+#### Git bash install instructions 
 
 1. Remove **Git GUI Here**
 2. Select Notepad++ as the default editor (option 2)
@@ -45,6 +46,7 @@ cat ~/.ssh/id_rsa.pub
 
 - The commands will make a ssh public and private key pair and save in your virtual home under the `.ssh` folder.
 - The `id_rsa.pub` file content will be displayed if everything works and you can copy this key and use it and add to your account
+
 ## Getting started with documentation - Video tutorial
 
 An easy to follow tutorial can be found [here]()(pending)
