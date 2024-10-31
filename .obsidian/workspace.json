@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/2024-10-29.md",
+                "file": "docs/Tutorials/Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-29"
+              "title": "Readme"
             }
           }
         ]
@@ -176,8 +176,8 @@
   },
   "active": "f74672a155740811",
   "lastOpenFiles": [
-    "docs/2024-10-22.md",
     "docs/2024-10-29.md",
+    "docs/2024-10-22.md",
     "docs/Meshtastic/Readme.md",
     "docs/Tutorials/Readme.md",
     "docs/Tutorials",
