@@ -9,6 +9,7 @@
 	- If you see files with names `id_ed25519` and `id_ed25519.pub` they public/private key pairs have been generated correctly
 	- `git config --global user.email "<email>"`
 	- `git config --global user.name "<first last name>"`
+	- to check the settings type `git config list`  and check if you see your email and username
 	- `cat ~/.ssh/id_ed25519.pub` and copy the full text you see
 	- Open https://github.com/settings/keys
 		- Click on "New SSH Key"
