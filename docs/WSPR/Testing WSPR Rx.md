@@ -11,3 +11,10 @@
 ---
 
 
+Following discussion: 
+tasks added to issue log
+
+potential items to buy/make
+audio cable for (tr)usdx 
+Windows tablet to run wsjtx? 
+test board to run WSJTX and clock chip 
