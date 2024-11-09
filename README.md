@@ -50,5 +50,6 @@ cat ~/.ssh/id_rsa.pub
 ## Getting started with documentation - Video tutorial
 
 An easy to follow tutorial can be found [here]()(pending)
+test git on arc pc
 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Tutorials/Git setup.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git setup"
+              "title": "README"
             }
           }
         ]
@@ -176,11 +176,11 @@
   },
   "active": "48cbef9cbeaffd49",
   "lastOpenFiles": [
+    "docs/Tutorials/Git setup.md",
     "docs/2024-10-22.md",
     "docs/ARC - HAB Introduction Slides.md",
     "docs/2024-10-29.md",
     "docs/Tutorials/Readme.md",
-    "docs/Tutorials/Git setup.md",
     "docs/Meshtastic/Readme.md",
     "README.md",
     "docs/Science-payload/Science payload.md",
