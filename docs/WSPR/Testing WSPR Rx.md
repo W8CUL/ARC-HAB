@@ -18,3 +18,5 @@ potential items to buy/make
 audio cable for (tr)usdx 
 Windows tablet to run wsjtx? 
 test board to run WSJTX and clock chip 
+
+![image](https://github.com/user-attachments/assets/cf89e6af-d616-42bd-a424-bd9e920445b9)
