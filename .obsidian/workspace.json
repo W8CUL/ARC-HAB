@@ -13,12 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/WSPR/Testing WSPR Rx.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Testing WSPR Rx"
+            }
+          }
+        ]
+      },
+      {
+        "id": "670ec1e43cbd0f1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8693e9cb160b5b57",
+            "type": "leaf",
+            "state": {
+              "type": "marp-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Deck Preview"
             }
           }
         ]
@@ -174,15 +190,20 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "48cbef9cbeaffd49",
+  "active": "8693e9cb160b5b57",
   "lastOpenFiles": [
+    "docs/WSPR/Testing WSPR Rx.html",
+    "docs/WSPR/bin/Pasted image 20241109154119.png",
+    "docs/WSPR/bin",
+    "README.md",
+    "docs/WSPR/Testing WSPR Rx.md",
+    "docs/WSPR",
     "docs/Tutorials/Git setup.md",
     "docs/2024-10-22.md",
     "docs/ARC - HAB Introduction Slides.md",
     "docs/2024-10-29.md",
     "docs/Tutorials/Readme.md",
     "docs/Meshtastic/Readme.md",
-    "README.md",
     "docs/Science-payload/Science payload.md",
     "docs/Science-payload",
     "docs/Tutorials",
