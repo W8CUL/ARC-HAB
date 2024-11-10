@@ -16,10 +16,10 @@ Following discussion:
 - tasks added to issue log
 - potential items to buy/make
 	- audio cable for (tr)usdx 
-	- Windows tablet to run wsjtx? 
-	- test board to run WSJTX and clock chip 
+	- Windows tablet to run WSJT-x? 
+	- test board to run WSJT-x and clock chip 
 
-![image](https://github.com/user-attachments/assets/cf89e6af-d616-42bd-a424-bd9e920445b9)
+![bg right width:400](https://github.com/user-attachments/assets/cf89e6af-d616-42bd-a424-bd9e920445b9)
 
 ---
 ## Rx using Kiwi web SDR - 10/11/2024
@@ -29,9 +29,7 @@ Following discussion:
 - Tested WSJT-X on Ubunutu. Gave good results 
 	- Settings screen on Ubunutu
 
-
 ![300](bin/Pasted%20image%2020241110102918.png)
-
 ### Possible questions
 - Is there a max time limit for public SDRs
 - In windows can the redirection be done easily
