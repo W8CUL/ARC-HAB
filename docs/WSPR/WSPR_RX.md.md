@@ -1,4 +1,4 @@
-# Testing WSPR RX
+## Testing WSPR RX with (tr)USDx
 
 -  Used a (tr)uSDX to receive WSPR on 20 m using the shack Yagi
 	- internal sound card was not working on Shack PC
@@ -10,7 +10,8 @@
 
 
 ---
-## 09/11/2024 - Discussion
+## Discussion
+09/11/2024 by KC3VOP,KE8TJE
 
 Following discussion: 
 - tasks added to issue log
@@ -22,7 +23,8 @@ Following discussion:
 ![bg right width:400](https://github.com/user-attachments/assets/cf89e6af-d616-42bd-a424-bd9e920445b9)
 
 ---
-## Rx using Kiwi web SDR - 10/11/2024
+## WSPR Kiwi web SDR
+10/11/2024 by KE8TJE
 
 - Kiwi doesn't support online WSPR decoding
 - Make sure the frequency is exactly `14095.600`
