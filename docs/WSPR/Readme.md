@@ -2,7 +2,7 @@
 ## Table of content 
 
 - [Introduction](##Introduction)
-- [WSPR Receive](./WSPR_RX.md)
+- [WSPR Receive](WSPR_RX.md)
 	- [WSPR with a radio](./WSPR_RX.md##Testing WSPR RX with (tr)USDx)
 	- [WSPR with public SDR](./WSPR_RX.md##WSPR Kiwi web SDR)
 ## Introduction
