@@ -12,7 +12,7 @@
 
 | Tutorial name                                                                                | Date       | Topics                       | Contact person |
 | -------------------------------------------------------------------------------------------- | ---------- | ---------------------------- | -------------- |
-| [Git+Obsidian](./Git_setup.md)                                                               | 30/10/2024 | Installation of Git/Obsidian | Hasith Perera  |
+| [Git+Obsidian](Git_setup.md)                                                               | 30/10/2024 | Installation of Git/Obsidian | Hasith Perera  |
 | [KiCad tutorial](https://www.youtube.com/watch?v=eSiaZDVhYhk&ab_channel=WVUAmateurRadioClub) | 05/11/2024 | PCB Design with KiCad        | Justin Bowman  |
 | PCB building                                                                                 | TBD        |                              |                |
 | Soldering                                                                                    | TBD        |                              |                |
