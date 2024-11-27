@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5958afe1750853e5",
+        "id": "1363ac1a66e06b39",
         "type": "tabs",
         "children": [
           {
-            "id": "48cbef9cbeaffd49",
+            "id": "af75441106979e4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/WSPR/Testing WSPR Rx.md",
+                "file": "docs/WSPR/2024-11-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testing WSPR Rx"
-            }
-          }
-        ]
-      },
-      {
-        "id": "670ec1e43cbd0f1b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8693e9cb160b5b57",
-            "type": "leaf",
-            "state": {
-              "type": "marp-preview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Deck Preview"
+              "title": "2024-11-26"
             }
           }
         ]
@@ -190,20 +174,31 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "8693e9cb160b5b57",
+  "active": "af75441106979e4e",
   "lastOpenFiles": [
-    "docs/WSPR/Testing WSPR Rx.html",
+    "docs/WSPR/bin/TEK0001.bmp",
+    "docs/WSPR/bin/Pasted image 20241126182838.png",
+    "docs/WSPR/Testing WSPR Rx.md",
+    "docs/2024-10-22.md",
+    "docs/WSPR/2024-11-26.md",
+    "docs/Tutorials/THD3 testing.md",
+    "docs/Tutorials/bin/Pasted image 20241122211114.png",
+    "docs/Tutorials/bin/Pasted image 20241122210933.png",
+    "docs/Tutorials/bin/Pasted image 20241122210015.png",
+    "docs/Tutorials/bin/Pasted image 20241122205735.png",
+    "docs/Tutorials/bin",
+    "APRS-research/Readme.md",
     "docs/WSPR/bin/Pasted image 20241109154119.png",
     "docs/WSPR/bin",
-    "README.md",
-    "docs/WSPR/Testing WSPR Rx.md",
+    "docs/WSPR/Testing WSPR Rx.html",
     "docs/WSPR",
+    "docs/Meshtastic/Readme.md",
+    "APRS-research",
     "docs/Tutorials/Git setup.md",
-    "docs/2024-10-22.md",
     "docs/ARC - HAB Introduction Slides.md",
     "docs/2024-10-29.md",
     "docs/Tutorials/Readme.md",
-    "docs/Meshtastic/Readme.md",
+    "README.md",
     "docs/Science-payload/Science payload.md",
     "docs/Science-payload",
     "docs/Tutorials",
