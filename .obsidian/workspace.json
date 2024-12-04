@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/WSPR/2024-11-26.md",
+                "file": "docs/APRS-Testing/DR818 V.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-26"
+              "title": "DR818 V"
             }
           }
         ],
@@ -191,14 +191,17 @@
   },
   "active": "c31fcf334b140e0c",
   "lastOpenFiles": [
+    "docs/Science-payload/Readme.md",
+    "docs/Meshtastic/Readme.md",
+    "docs/APRS-Testing/DR818 V.md",
+    "docs/WSPR/2024-11-26.md",
+    "docs/APRS-Testing",
     "docs/WSPR/bin/Pasted image 20241126191846.png",
     "conflict-files-obsidian-git.md",
-    "docs/WSPR/2024-11-26.md",
     "docs/WSPR/bin/Pasted image 20241110102918.png",
     "docs/WSPR/WSPR_RX.md",
     "docs/WSPR/Readme.md",
     "docs/Tutorials/Git_setup.md",
-    "docs/Science-payload/Readme.md",
     "docs/Science-payload/Radiosonde-autoRX.md",
     "docs/Readme.md",
     "docs/Meeting_updates/2024-10-29.md",
@@ -219,7 +222,6 @@
     "docs/WSPR/bin",
     "docs/WSPR/Testing WSPR Rx.html",
     "docs/WSPR",
-    "docs/Meshtastic/Readme.md",
     "APRS-research",
     "docs/Tutorials/Git setup.md",
     "docs/ARC - HAB Introduction Slides.md",
