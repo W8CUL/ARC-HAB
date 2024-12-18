@@ -5,6 +5,7 @@
 - [WSPR Receive](WSPR_RX.md)
 	- [WSPR with a radio](./WSPR_RX.md#testing-wspr-rx-with-trusdx)
 	- [WSPR with public SDR](./WSPR_RX.md#wspr-kiwi-web-sdr)
+- [DIY WSPR](./2024-12-17.md) 
 ## Introduction
 
 Weak Signal Propagation Reporter (WSPR) is a data mode that has become very popular in evaluating the propagating and band conditions using a distributed network of global stations and the power of the internet to collect,store and visualize the data.
