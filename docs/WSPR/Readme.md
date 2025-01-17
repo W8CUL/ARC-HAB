@@ -21,9 +21,9 @@ The main goal of this sub project is to evaluate the feasibility to use WSPR as 
 
 # Todo list
 
-- [x] Si5351 library for signal generation ✅ 2025-01-16
-- [x] FT8/WSPR packet generation ✅ 2025-01-16
-- [x] [Correct packet decoding ✅ 2025-01-16](2025-01-16.md)
+-  Si5351 library for signal generation ✅ 2025-01-16
+-  FT8/WSPR packet generation ✅ 2025-01-16
+-  [Correct packet decoding ✅ 2025-01-16](2025-01-16.md)
 - [ ] GPS Time syncing 
 	- [ ] GPS location to grid
 - [ ] Full System testing 
