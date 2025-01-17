@@ -7,8 +7,8 @@
 	- [Weak Signal Propagation Reporter](WSPR/Readme.md)
 	- [Meshtastic]()
 	- [APRS]()
-- Launch procedure 
-	- Preparing for a launch
+- Launch procedure
+    - Preparing for a launch
 		- [Personal](Tutorials/Launch%20planning.md)
 		- FAA clearance
 		- launch predictions
