@@ -37,3 +37,14 @@ Following discussion:
 - In windows can the redirection be done easily
 
 ---
+
+
+### System testing 
+
+1/16/2025 by KC3VOP, KE8TJE
+tested tx with arduino and ft8 and rx signals with wsjtx and trusdx 
+![image](https://github.com/user-attachments/assets/9e9c2395-4624-4d43-ae75-07bfba8623e2)
+we were able to recive signals but not decode troubleshooting them now.
+we possibly need to set auduino to sync time with global time as time syncing on both ends is very important for ft8
+time was shown to be exact on Dylans windows laptop and hasiths linux laptop, unable to check time on arduino 
+
