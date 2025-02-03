@@ -28,3 +28,9 @@ The tracking capability would be available on all flights. Some basic details of
 - Max payload: 300 g
 - Ascent rate: 5-10 $ms^{-1}$
 - max altitude: 80000 ft
+
+--- 
+### Process to get WVU permission
+
+- Submit a UAV form with the launch date and time. I submitted the top portion of this document along with the filled form
+- on the day of launch UPD Dispatch should be notified before and after launch 

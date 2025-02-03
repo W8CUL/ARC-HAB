@@ -11,6 +11,7 @@
     - Preparing for a launch
 		- [Personal](Tutorials/Launch%20planning.md)
 		- FAA clearance
+			- [WVU UPD permission](other/ARC%20HAB%20-%20WVU-PD-6%20application.md)
 		- launch predictions
 		- Packing list
 	- Day of launch
