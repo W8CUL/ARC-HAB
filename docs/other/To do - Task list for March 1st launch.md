@@ -23,6 +23,9 @@
 
 - APRS tracker filters
 - Recovery setup - based on how WSPR ground testing goes we will confirm that
+- Science and saving prediction on run time
+	- APRS and Sondehub API and data logging 
+		- talk to TJE: If you know python this is a web scripting application and get some science out of that
 
 ### Outreach 
 
