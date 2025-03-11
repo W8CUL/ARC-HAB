@@ -13,7 +13,13 @@
 		- FAA clearance
 			- [WVU UPD permission](other/ARC%20HAB%20-%20WVU-PD-6%20application.md)
 		- launch predictions
-		- Packing list
+		- Packing list - Recovery
+	- HAB System overview
+		- [Parachute](other/Parachute)
+		- Payloads
+			- APRS
+			- WSPR
+			- Other
 	- Day of launch
 		- Filling SOP
 		- Recovery vehicle SOP
