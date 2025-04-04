@@ -18,7 +18,20 @@ The main goal of this sub project is to evaluate the feasibility to use WSPR as 
 - Light weight and low cost stand alone WSPR beacon
 - Evaluate methods of sending 8 digit grid locations based on standard WSPR
 - Encode altitude in to the power fields ?
-# Todo list
+
+## Final design
+
+A PCB was designed after all the testing and it was tested in two balloon flight. Key findings are below:
+- WSPR packet generation was successful 
+- Altitude can be encoded to the power field for debugging 
+- GPS Issues:
+	- During 2 separate launches we tested a NEO6M vs a PD1616 GPS
+	- GPS lock was not consistent after 10 km, this caused WSPR to stop providing locations
+## Data analysis
+
+- 2025-04-04 flight data and more information [here](2025-04-04.md)
+
+## Todo list
 
 - Si5351 library for signal generation ✅ 2025-01-16
 - FT8/WSPR packet generation ✅ 2025-01-16
