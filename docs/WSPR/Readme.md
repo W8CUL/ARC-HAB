@@ -25,7 +25,7 @@ The main goal of this sub project is to evaluate the feasibility to use WSPR as 
 - FT8/WSPR packet generation ✅ 2025-01-16
 - [Correct packet decoding ✅ 2025-01-16](2025-01-16.md)
 - GPS Time syncing ✅ 2025-02-23
-	- [ ] GPS location to grid
-	- [ ] 8 char grid Tx using 2 time slots 
+	- [x] GPS location to grid ✅ 2025-04-04
+	- [x] 8 char grid Tx using 2 time slots ✅ 2025-04-04
 - Full System testing ✅ 2025-02-23
-	- [ ] Battery powered system testing 
+	- [x] Battery powered system testing ✅ 2025-04-04
