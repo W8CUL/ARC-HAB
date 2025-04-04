@@ -8,7 +8,7 @@
 - [DIY WSPR](./2024-12-17.md)
 	- Signal generation testing
 	- Decoding testing 
-	- [Final code and PCB](https://github.com/W8CUL/WSPR_main) -  External git hub link ß
+	- [Final code and PCB](https://github.com/W8CUL/WSPR_main) -  External git hub link
 ## Introduction
 
 Weak Signal Propagation Reporter (WSPR) is a data mode that has become very popular in evaluating the propagating and band conditions using a distributed network of global stations and the power of the internet to collect,store and visualize the data.
