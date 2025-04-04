@@ -8,7 +8,7 @@
 - [DIY WSPR](./2024-12-17.md)
 	- Signal generation testing
 	- Decoding testing 
-	- 
+	- [Final code and PCB](https://github.com/W8CUL/WSPR_main) -  External git hub link ß
 ## Introduction
 
 Weak Signal Propagation Reporter (WSPR) is a data mode that has become very popular in evaluating the propagating and band conditions using a distributed network of global stations and the power of the internet to collect,store and visualize the data.
@@ -18,7 +18,6 @@ The main goal of this sub project is to evaluate the feasibility to use WSPR as 
 - Light weight and low cost stand alone WSPR beacon
 - Evaluate methods of sending 8 digit grid locations based on standard WSPR
 - Encode altitude in to the power fields ?
-
 # Todo list
 
 - Si5351 library for signal generation ✅ 2025-01-16
