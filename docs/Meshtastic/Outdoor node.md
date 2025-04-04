@@ -1,3 +1,0 @@
-
-## Outdoor Node - 1
-- 
