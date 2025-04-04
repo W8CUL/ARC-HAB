@@ -8,12 +8,11 @@
 		- [APRS](https://github.com/hasithperera/APRS_tracker) - link to KE8TJE
 		- [WSPR](docs/WSPR/Readme.md)
 - [Preparing for a launch](docs/Preparing%20for%20a%20launch.md)
-	- [Personal](Tutorials/Launch%20planning.md)
-
+	- [Personal](docs/Tutorials/Launch%20planning.md)
 ## Sub projects
 
-- [Weak Signal Propagation Reporter](WSPR/Readme.md)
-	- [Meshtastic]()
+- [Meshtastic](docs/Meshtastic/Readme.md)
+- [ATV](docs/ATV/Readme.md)
 - Other:
 	- [WVU UPD permission](other/ARC%20HAB%20-%20WVU-PD-6%20application.md)
 
