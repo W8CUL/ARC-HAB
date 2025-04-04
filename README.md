@@ -3,9 +3,9 @@
 ## How to fly a High altitude balloon
 
 - HAB System overview
-	- [Parachute](other/Parachute)
+	- [Parachute](docs/other/Parachute.md)
 	- [Payload - Basics](docs/Payload%20-%20Basics.md)
-		- [APRS]()
+		- [APRS](https://github.com/hasithperera/APRS_tracker) - link to KE8TJE
 		- [WSPR](docs/WSPR/Readme.md)
 - [Preparing for a launch](docs/Preparing%20for%20a%20launch.md)
 	- [Personal](Tutorials/Launch%20planning.md)
