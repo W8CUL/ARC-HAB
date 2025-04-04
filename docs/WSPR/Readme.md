@@ -1,7 +1,7 @@
 # WSPR - Payload
 ## Table of content 
 
-- [Introduction](##Introduction)
+- ![Introduction](##Introduction)
 - [WSPR Receive](WSPR_RX.md)
 	- [WSPR with a radio](./WSPR_RX.md#testing-wspr-rx-with-trusdx)
 	- [WSPR with public SDR](./WSPR_RX.md#wspr-kiwi-web-sdr)
