@@ -13,7 +13,7 @@ This document describes the minimum launch procedure that is required to be comp
 ### Recovery team
 - Minimum: 2 people (including at least one HAM) ideally 3
 - equipment list
-	- Mobile mag mount antenna for Radio + Raspi
+	- Mobile mag mount antenna for Radio + TNC
 		- APRS decoding capability 
 	- 900 MHz data downlink - Meshtastic
 	- 2m Yagi for final recovery 
