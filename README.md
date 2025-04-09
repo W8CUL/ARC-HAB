@@ -31,4 +31,6 @@ Step to launch in WVU:
 - Other:
 	- [WVU-PD-6 application](docs/other/WVU-PD-6_application.md)
 
+## [WVU Launch-Summary](Launch-Summary.md.md)
+
 *last updated: April 2025* by KE8TJE 
