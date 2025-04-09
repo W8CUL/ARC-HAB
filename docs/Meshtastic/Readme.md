@@ -4,9 +4,7 @@ Use this folder to document any resources that you guys find in order to keep ev
 - Introduction
 - Goals
 - Implementation
-	- [Outdoor nodes](obsidian://open?vault=ARC-HAB&file=docs%2FMeshtastic%2FOutdoor%20Node)
 	- [Personal devices]()
-- 
 ### Goals
 
 Fill these sections
