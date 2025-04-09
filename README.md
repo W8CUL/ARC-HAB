@@ -22,7 +22,7 @@ Step to launch in WVU:
 	- [WSPR](docs/WSPR/Readme.md) - HF tracker still under testing
 - [Parachute](docs/other/Parachute.md)
 - [Preparing_for_a_launch.md](docs/Preparing_for_a_launch.md.md)
-	- [Personal](docs/Tutorials/Launch%20planning.md)
+	- [Personal](docs/Tutorials/Launch-planning.md.md)
 ## Sub projects
 
 - [Meshtastic](docs/Meshtastic/Readme.md)

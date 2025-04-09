@@ -1,9 +1,8 @@
 
-This document describes the minimum launch procedure that is required to be completed in order to have a successful launch and recovery.
-
 ## Minimum personal
 
-## Launch team
+This document describes the minimum launch procedure that is required to be completed in order to have a successful launch and recovery.
+### Launch team
 
 - On a day with calm weather the minimum launch personal would be 3 people 
 	- 1 - Control filling 
