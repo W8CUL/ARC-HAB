@@ -23,14 +23,12 @@ Step to launch in WVU:
 - [Parachute](docs/other/Parachute.md)
 - [Preparing_for_a_launch.md](docs/Preparing_for_a_launch.md.md)
 	- [Personal](docs/Tutorials/Launch-planning.md.md)
+
 ## Sub projects
 
 - [Meshtastic](docs/Meshtastic/Readme.md)
 - [ATV](docs/ATV/Readme.md)
 - Other:
-	- [WVU-PD-6_application](docs/other/WVU-PD-6_application.md)
-
-
-test git page branch for web site
+	- [WVU-PD-6 application](docs/other/WVU-PD-6_application.md)
 
 *last updated: April 2025* by KE8TJE 
