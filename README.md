@@ -32,9 +32,10 @@ Step to launch in WVU:
 	- [WVU-PD-6 application](docs/other/WVU-PD-6_application.md)
 ## [WVU Launch-Summary](Launch-Summary.md.md)
 
-<ul> {% for post in site.posts %} 
-<li> <a href="{{ post.url }}">{{ post.title }}</a> </li> 
-{% endfor %}
+<ul> 
+	{% for post in site.posts %} 
+		<li> <a href="{{ post.url }}">{{ post.title }}</a> </li> 
+	{% endfor %}
  </ul>
 - More information about our launches can be found here.
 - Note to self: Convert this in to a Blog format allowing us to post updates with a dated post
