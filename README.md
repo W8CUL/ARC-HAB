@@ -8,18 +8,18 @@ Step to launch in WVU:
 	- Contact UPD over the phone and find the contact details of the  officer who works with Unmanned arial vehicles. if possible talk to him and explain the requirement
 		- in Spring 2025 this was Jason DeProspero jdepros1@mail.wvu.edu
 		- Email him with the interest and the dates
-		- you will be asked to will a WVU-PD-6 application. supporting document found [here](other/ARC%20HAB%20-%20WVU-PD-6%20application.md).
+		- you will be asked to fill a WVU-PD-6 application. supporting document found [here](other/ARC%20HAB%20-%20WVU-PD-6%20application.md).
 3. once you have WVU UPD permission you can use that email for facilitate most of the other requirement (door request for He storage etc.)
-4. 3-5 days befor launch date FAA NOTAM needs to be filed. Process is detailed below in the next sections
+4. 3-5 days before the launch date, FAA NOTAM needs to be filed. Process is detailed [here](docs/Preparing%20for%20a%20launch.md)
 5. On the day of launch: call UPD before launch and have fun
 6. If you are recovering the balloon form a search party
 
 ---
 ##  System overview
 - [Payload - Basics](docs/Payload%20-%20Basics.md)
-	- [APRS](https://github.com/hasithperera/APRS_tracker) - link to KE8TJE
+	- [APRS](https://github.com/hasithperera/APRS_tracker) - 2m VHF tracking solution
 		- [APRS KISS TNC build](https://github.com/hasithperera/APRS_tracker-buildday/tree/main/pcb/bt_kiss) - allows you to decode packets with APRSDroid and a handheld radio
-	- [WSPR](docs/WSPR/Readme.md) - HF tracker
+	- [WSPR](docs/WSPR/Readme.md) - HF tracker still under teating
 - [Parachute](docs/other/Parachute.md)
 - [Preparing for a launch](docs/Preparing%20for%20a%20launch.md)
 	- [Personal](docs/Tutorials/Launch%20planning.md)
