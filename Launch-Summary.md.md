@@ -11,7 +11,7 @@
 	- APRS was resetting the WSPR GPS every 2 minutes and that prevented lock on the WSPR GPS causing it to not send out any data
 	- Try to implement GPS sync on the APRS packets and a software bug was found after launch which explains unreadable packets
 
-![](bin/Pasted%20image%2020250409183253.png){:width=300}
+![](bin/Pasted%20image%2020250409183253.png){: width="250" }
 
 ## Launch 2: March 18 (during spring break)
 
@@ -20,7 +20,7 @@
 	- No altitude information or power information
 	- We suspected a power drop might cause the system to fail 
 
-![](bin/Pasted%20image%2020250409183953.png){:width=300}
+![](bin/Pasted%20image%2020250409183953.png){: width="250" }
 
 ## Launch 3: April 04
 - original launch date on 03/28 was cancelled 
