@@ -8,7 +8,7 @@ Step to launch in WVU:
 	- Contact UPD over the phone and find the contact details of the  officer who works with Unmanned arial vehicles. if possible talk to him and explain the requirement
 		- in Spring 2025 this was Jason DeProspero jdepros1@mail.wvu.edu
 		- Email him with the interest and the dates
-		- you will be asked to fill a WVU-PD-6 application. supporting document found [here](other/ARC%20HAB%20-%20WVU-PD-6%20application.md).
+		- you will be asked to fill a WVU-PD-6 application. supporting document found [here](docs/other/WVU-PD-6%20application.md).
 3. once you have WVU UPD permission you can use that email for facilitate most of the other requirement (door request for He storage etc.)
 4. 3-5 days before the launch date, FAA NOTAM needs to be filed. Process is detailed [here](docs/Preparing%20for%20a%20launch.md)
 5. On the day of launch: call UPD before launch and have fun
@@ -28,7 +28,7 @@ Step to launch in WVU:
 - [Meshtastic](docs/Meshtastic/Readme.md)
 - [ATV](docs/ATV/Readme.md)
 - Other:
-	- [ARC HAB - WVU-PD-6 application](docs/other/ARC%20HAB%20-%20WVU-PD-6%20application.md)
+	- [WVU-PD-6 application](docs/other/WVU-PD-6%20application.md)
 
 
 test git page branch for web site
