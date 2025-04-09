@@ -19,7 +19,8 @@
 - WSPR worked well but lot tracking
 	- No altitude information or power information
 	- We suspected a power drop might cause the system to fail 
-![](bin/Pasted%20image%2020250409183953.png){: width="300" }
+
+![](bin/Pasted%20image%2020250409183953.png){: width="600" }
 
 ## Launch 3: April 04
 - original launch date on 03/28 was cancelled 
