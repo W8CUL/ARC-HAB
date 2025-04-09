@@ -24,7 +24,7 @@
 ---
 ## How to predict the balloon path
 
-- We are using https://predict.sondehub.org/
+- We are using [https://predict.sondehub.org](https://predict.sondehub.org)
 - Time needs to be converted to UTC
 - launch location can be saved for ease of use
 - For plotting and comparison CSV and KML file exports are possible
