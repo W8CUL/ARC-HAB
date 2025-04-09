@@ -6,6 +6,7 @@
 
 ![300](bin/Pasted%20image%2020250404161558.png){: width="250" }
 	
-	- This can be customized to hold multiple payloads within the same housing
+- This can be customized to hold multiple payloads within the same housing
 - A fully assembled payload is shown below
+  
 ![300](bin/Pasted%20image%2020250404161758.png){: width="300" }
