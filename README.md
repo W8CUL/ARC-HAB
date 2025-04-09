@@ -16,12 +16,12 @@ Step to launch in WVU:
 
 ---
 ##  System overview
-- [Payload-Basics.md](docs/Payload-Basics.md.md)
+- [Payload-Basics](docs/Payload-Basics.md.md)
 	- [APRS](https://github.com/hasithperera/APRS_tracker) - 2m VHF tracking solution
 		- [APRS KISS TNC build](https://github.com/hasithperera/APRS_tracker-buildday/tree/main/pcb/bt_kiss) - allows you to decode packets with APRSDroid and a handheld radio
 	- [WSPR](docs/WSPR/Readme.md) - HF tracker still under testing
 - [Parachute](docs/other/Parachute.md)
-- [Preparing_for_a_launch.md](docs/Preparing_for_a_launch.md.md)
+- [Preparing for a launch](docs/Preparing_for_a_launch.md.md)
 	- [Personal](docs/Tutorials/Launch-planning.md.md)
 
 ## Sub projects
