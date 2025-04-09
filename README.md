@@ -16,7 +16,7 @@ Step to launch in WVU:
 
 ---
 ##  System overview
-- [Payload - Basics](docs/Payload%20-%20Basics.md)
+- [Payload-Basics](docs/Payload-Basics.md)
 	- [APRS](https://github.com/hasithperera/APRS_tracker) - 2m VHF tracking solution
 		- [APRS KISS TNC build](https://github.com/hasithperera/APRS_tracker-buildday/tree/main/pcb/bt_kiss) - allows you to decode packets with APRSDroid and a handheld radio
 	- [WSPR](docs/WSPR/Readme.md) - HF tracker still under testing
