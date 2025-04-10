@@ -5,9 +5,12 @@
 	- [WSPR with a radio](./WSPR_RX.md#testing-wspr-rx-with-trusdx)
 	- [WSPR with public SDR](./WSPR_RX.md#wspr-kiwi-web-sdr)
 - [DIY WSPR](./2024-12-17.md)
-	- Signal generation testing
-	- Decoding testing 
+	- [Si5351 basic testing](2024-11-26.md)
+	- [Signal amplification](2025-01-10.md)
+	- [Decode testing](2025-01-16.md)
+	- [Filter desing and testing](2025-02-23.md)
 	- [Final code and PCB](https://github.com/W8CUL/WSPR_main) -  External git hub link
+
 ## Introduction
 
 Weak Signal Propagation Reporter (WSPR) is a data mode that has become very popular in evaluating the propagating and band conditions using a distributed network of global stations and the power of the internet to collect,store and visualize the data.
@@ -26,6 +29,7 @@ A PCB was designed after all the testing and it was tested in two balloon flight
 - GPS Issues:
 	- During 2 separate launches we tested a NEO6M vs a PD1616 GPS
 	- GPS lock was not consistent after 10 km, this caused WSPR to stop providing locations
+
 ## Data analysis
 
 - 2025-04-04 flight data and more information [here](2025-04-04.md)
