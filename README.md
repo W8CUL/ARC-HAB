@@ -1,8 +1,9 @@
 # High altitude balloon project - Documentation
 
-Great you have decided to get in to High altitude ballooning.... It seems overwhelming where to start at first. I am listing down step I followed to get everything ready for launching
+Great you have decided to get in to High altitude ballooning.... 
+It seems like a big overwhelming task at first in terms of where to start. I am listing down step I followed to get everything ready for launching. These are based partially on the National Eclipse balloon Project (NEBP) [training](https://eclipse.montana.edu) combined with WV specific work arounds for small scale launches  
 
-Step to launch in WVU:
+Steps to launch small balloons in WV:
 1. Decide what size of balloon you would like to launch, payload capacity, equipment and funding for it. (Talk to SGC, email KE8TJE if needed)
 2. Once you have all of this: WVU UPD permission would be the easiest to get
 	- Contact UPD over the phone and find the contact details of the  officer who works with Unmanned arial vehicles. if possible talk to him and explain the requirement
