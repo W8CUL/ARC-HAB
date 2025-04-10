@@ -30,14 +30,19 @@ Step to launch in WVU:
 - [ATV](docs/ATV/Readme.md)
 - Other:
 	- [WVU-PD-6 application](docs/other/WVU-PD-6_application.md)
+
 ## [WVU Launch-Summary](Launch-Summary.md.md)
+
+- More information about our launches can be found here.
+- Note to self: Convert this in to a Blog format allowing us to post updates with a dated post
+
+### Testing blog style
 
 <ul> 
 	{% for post in site.posts %} 
-		<li> <a href="{{ post.url }}">{{ post.title }}</a> </li> 
+		<li> <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> </li> 
 	{% endfor %}
  </ul>
-- More information about our launches can be found here.
-- Note to self: Convert this in to a Blog format allowing us to post updates with a dated post
+
 
 *last updated: April 2025* by KE8TJE 
