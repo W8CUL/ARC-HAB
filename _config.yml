@@ -71,3 +71,16 @@ kramdown:
   hard_wrap         : false
   footnote_nr       : 1
   show_warnings     : false
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
