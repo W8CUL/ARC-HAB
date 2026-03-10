@@ -1,0 +1,3 @@
+- This is a summary of what we talked about on a zoom meeting on 21/12/2024 
+	- In attendance: Hasith,Ryan
+- 
